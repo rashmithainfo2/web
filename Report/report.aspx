@@ -103,7 +103,7 @@ table.center {
                         <asp:Label ID="Lblnotest" runat="server" Text=" Name of Consumer: Mr test test" Font-Size="Small"></asp:Label><br />
                         <asp:Label ID="Lblpatest" runat="server" Text=" Physical address: test" Font-Size="Small" ></asp:Label><br />
                         <asp:Label ID="Lblcnq" runat="server" Text=" Company Name: Quattro Company Limited" Font-Size="Small"></asp:Label><br />
-                         <asp:Label ID="Lblbr" runat="server" Text=" Branch: BR-0006 NDOLA - TESTING" Font-Size="Small" ></asp:Label><br />
+                         <asp:Label ID="Lblbr" runat="server" Text=" Branch: BR-0006 NDOLA - TeSTING" Font-Size="Small" ></asp:Label><br />
                          <asp:Label ID="Lblbcn" runat="server" Text=" Borrower contact number: 43254" Font-Size="Small" ></asp:Label><br />
                          <asp:Label ID="Lblidre" runat="server" Text=" ID no/Registration Number: test ll" Font-Size="Small" ></asp:Label><br /><br />
                      </td>
